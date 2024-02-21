@@ -1,0 +1,14 @@
+git config --global user.name "John Doe"
+git config --global user.email Dohoangvinh051103@gmail.com
+git config --list
+vao file, mo git len nhap
+git init
+coppy lenh tren git
+git remote -v
+git add .
+git commit -m"init project"
+git push origin master
+muốn thay đổi gõ 3 lệnh sau th
+git add .
+git commit -m"init project"
+git push origin master
